@@ -133,15 +133,7 @@ const uday = {
 ## 💡 Developer Philosophy
 
 <p align="center">
-  <i>
-
-<!-- QUOTE-START -->
-
-🚀 Building scalable systems that solve real-world problems.
-
-<!-- QUOTE-END -->
-
-  </i>
+  <i><!-- QUOTE-START -->🚀 Building scalable systems that solve real-world problems.<!-- QUOTE-END --></i>
 </p>
 
 ---
