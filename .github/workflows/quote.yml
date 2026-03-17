@@ -1,0 +1,47 @@
+name: Update Quote
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update Quote
+        run: |
+          quotes=(
+            "🚀 Building scalable systems that solve real-world problems."
+            "💡 Great developers build systems, not just features."
+            "⚡ Performance is a feature, not an option."
+            "🔥 Simplicity beats complexity."
+            "🧠 Think like an engineer, build like an architect."
+            "💼 Code should create business impact."
+            "🚀 Scale first, optimize later — but design for both."
+            "⚡ Clean code, fast systems, real impact."
+            "🧠 Solve problems, don’t just write code."
+            "🔥 Systems > Syntax."
+          )
+
+          random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
+
+          awk -v quote="$random_quote" '
+          /<!-- QUOTE-START -->/ {print; getline; print quote; next}
+          /<!-- QUOTE-END -->/ {print; next}
+          !seen {print}
+          ' README.md > temp.md
+
+          mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "🔄 update quote" || echo "No changes"
+          git push
