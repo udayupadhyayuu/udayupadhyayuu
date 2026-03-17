@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# ✅ ADD THIS BLOCK
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -33,7 +37,7 @@ jobs:
           awk -v quote="$random_quote" '
           /<!-- QUOTE-START -->/ {print; getline; print quote; next}
           /<!-- QUOTE-END -->/ {print; next}
-          !seen {print}
+          {print}
           ' README.md > temp.md
 
           mv temp.md README.md
