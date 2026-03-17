@@ -35,6 +35,15 @@ const uday = {
 
 ---
 
+## 🔥 Currently Working On
+
+* 🚀 Enterprise-grade systems
+* 💳 Payment integrations
+* ⚡ API performance optimization
+* 🧠 Scalable architecture
+
+---
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -46,7 +55,7 @@ const uday = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayupadhyayuu&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayupadhyayuu&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -97,6 +106,20 @@ const uday = {
 
 ---
 
+## 📌 Highlight Projects
+
+👉 Check my pinned repositories below 👇
+
+---
+
+## 🧠 Currently Learning
+
+* 🧠 System Design
+* ⚡ Backend Optimization
+* ☁️ Cloud Architecture
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -110,8 +133,28 @@ const uday = {
 ## 💡 Developer Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>
+
+<!-- QUOTE-START -->
+
+🚀 Building scalable systems that solve real-world problems.
+
+<!-- QUOTE-END -->
+
+  </i>
 </p>
+
+---
+
+## 💼 Hire Me
+
+🚀 Open for:
+
+* Freelance Projects
+* Full-time Opportunities
+* Full Stack / Backend Roles
+
+📩 Reach out via email or LinkedIn
 
 ---
 
