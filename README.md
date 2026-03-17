@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uday Kumar Upadhyay</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;4%2B+Years+Experience;Building+Scalable+Web+Apps+🚀;React+|+Node.js+|+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;4%2B+Years+Experience;Building+Scalable+Systems+🚀;React+|+Node.js+|+MongoDB+|+Payments" />
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 Developer Profile
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```js
 const uday = {
@@ -20,14 +22,20 @@ const uday = {
   experience: "4+ Years",
   location: "New Delhi, India",
   currentCompany: "Microtek International Pvt. Ltd.",
-  skills: ["React", "Node.js", "MongoDB", "Payments", "APIs"],
-  passion: "Building scalable real-world applications 🚀"
+  expertise: [
+    "Frontend (React, JS)",
+    "Backend (Node.js, APIs)",
+    "Databases (MongoDB)",
+    "Payments & Security"
+  ],
+  achievements: "Built systems serving 3000+ users",
+  mindset: "Solve real-world problems with scalable solutions 🚀"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mongodb,mysql,aws,git,github,bootstrap" />
@@ -35,16 +43,11 @@ const uday = {
 
 ---
 
-## 🚀 Featured Projects
-
-✨ **Portfolio** → https://udayupadhyay.in
-💼 **Freelancing Website** → https://ritikaa.in
-🏨 **Hotel WiFi Systems** → Clarks & Royal Orchid
-🌿 **Govt Project** → Ayurvedic Plant Library
-
----
-
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayupadhyayuu&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udayupadhyayuu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -65,21 +68,32 @@ const uday = {
 
 ---
 
-## 🧠 What I Do
+## 🚀 Featured Work
 
-✔️ Build scalable web applications
-✔️ Design secure payment systems
-✔️ Develop enterprise-level tools
-✔️ Optimize performance & APIs
+| Project                | Description                   |
+| ---------------------- | ----------------------------- |
+| 🌐 Portfolio           | https://udayupadhyay.in       |
+| 💼 Freelancing Website | https://ritikaa.in            |
+| 🏨 WiFi Portal Systems | Hotels (Clarks, Royal Orchid) |
+| 🌿 Govt Project        | Ayurvedic Plant Library       |
 
 ---
 
 ## 🏆 Achievements
 
-* 🚀 Systems serving **3000+ users**
+* 🚀 Systems supporting **3000+ users**
 * 💳 Payment integrations (Razorpay, Cashfree)
 * 🏢 Enterprise internal platforms
-* 🌐 Government & client projects
+* 🌐 Government & production-grade projects
+
+---
+
+## 🎯 What Makes Me Different
+
+✔️ Real-world production experience
+✔️ Business-focused development mindset
+✔️ Strong frontend + backend balance
+✔️ Performance + scalability focus
 
 ---
 
@@ -93,7 +107,7 @@ const uday = {
 
 ---
 
-## 💡 Dev Quote
+## 💡 Developer Philosophy
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -101,14 +115,10 @@ const uday = {
 
 ---
 
-## 🔥 Fun Section
+## ⚡ Final Note
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  ⚡ <b>"Build systems that scale, not just code that runs."</b> ⚡
+  <b>"I don’t just write code — I build systems that scale."</b>
 </p>
 
 ---
