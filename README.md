@@ -134,7 +134,7 @@ const uday = {
 
 <p align="center">
   <i><!-- QUOTE-START -->🚀 Building scalable systems that solve real-world problems.<!-- QUOTE-END --></i>
-💡 Great developers build systems, not just features.
+🧠 Think like an engineer, build like an architect.
 
 ---
 
