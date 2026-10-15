@@ -134,7 +134,7 @@ const uday = {
 
 <p align="center">
   <i><!-- QUOTE-START -->🚀 Building scalable systems that solve real-world problems.<!-- QUOTE-END --></i>
-🧠 Solve problems, don’t just write code.
+🚀 Scale first, optimize later — but design for both.
 
 ---
 
