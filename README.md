@@ -134,7 +134,7 @@ const uday = {
 
 <p align="center">
   <i><!-- QUOTE-START -->🚀 Building scalable systems that solve real-world problems.<!-- QUOTE-END --></i>
-💼 Code should create business impact.
+💡 Great developers build systems, not just features.
 
 ---
 
